@@ -28,7 +28,7 @@ content:
     - name: 常用推荐
       sites:
         - name: 我的导航
-          description: 一个临时的导航。
+          description: 展示分享的网站。
           url: http://www.ztz8.com/
         - name: Youtube
           description: 全球最大的学习分享平台
@@ -36,11 +36,11 @@ content:
         - name: Google
           description: 全球最大的UI学习分享平台
           url: https://www.google.com/
-    - name: 界面灵感
+    - name: 手游展示
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
+        - name: 侠客行
+          description: MMORPG新派武侠国风手游，炫酷侠客坐骑时装。
+          url: https://shimo.im/docs/HkdxG8K6XXT8qQ9t
         - name: 设计周刊
           description: 最新设计资讯（每天更新）
           url: https://www.shejizhoukan.com/
