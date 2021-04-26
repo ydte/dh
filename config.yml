@@ -29,7 +29,7 @@ content:
       sites:
         - name: 我的导航
           description: 展示分享的网站。
-          url: http://www.ztz8.com/
+          url: http://dh.ztz8.com/
         - name: Youtube
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
