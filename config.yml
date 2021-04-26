@@ -44,169 +44,103 @@ content:
         - name: 新斗罗大陆 - 横版卡牌
           description: 唐家三少原著改编，100%剧情还原，动画唐三小舞倾情入驻游戏！
           url: https://shimo.im/docs/PTDTwjQprccGWjtJ
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
-    - name: 社区资讯
+        - name: 添加ing
+          description: 添加ing
+          url: http:///
+    - name: 社区博客
       sites:
-        - name: 雷锋网
-          description: 人工智能和智能硬件领域的互联网科技媒体
-          url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: 产品壹佰
-          description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-          url: http://www.chanpin100.com/
-        - name: PMCAFF
-          description: 中国第一产品经理人气组织，专注于研究互联网产品
-          url: http://www.pmcaff.com/
-        - name: 爱运营
-          description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-          url: http://www.iyunying.org/
-        - name: 鸟哥笔记
-          description: 移动互联网第一干货平台
-          url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
-    - name: 发现产品
+        - name: 35游资
+          description: 游戏资源下载博客
+          url: https://www.35uz.com/
+        - name: 吾爱破解
+          description: 吾爱破解
+          url: https://www.52pojie.cn/
+        - name: 精易论坛
+          description: 精易论坛
+          url: https://bbs.125.la/
+        - name: 汽车之家
+          description: 汽车之家
+          url: https://www.autohome.com.cn/beijing/
+        - name: 添加ing
+          description: 添加ing
+          url: http:///
+    - name: 生活购物
       sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
-        - name: 少数派
-          description: 高品质数字消费指南
-          url: https://sspai.com/
-        - name: 利器
-          description: 创造者和他们的工具
-          url: http://liqi.io/
-        - name: Today
-          description: 为身边的新产品喝彩
-          url: http://today.itjuzi.com/
-        - name: 小众软件
-          description: 在这里发现更多有趣的应用
-          url: https://faxian.appinn.com/
-        - name: Pttrns
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-          url: https://www.pttrns.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
-    - name: 网页灵感
+        - name: 京东
+          description: 京东商城
+          url: https://www.jd.com/
+        - name: 淘宝
+          description: 淘宝集市
+          url: https://www.taobao.com/
+        - name: 天猫
+          description: 天猫商城
+          url: https://www.tmall.com/
+        - name: 苏宁易购
+          description: 苏宁易购商城
+          url: https://www.suning.com/
+        - name: 亚马逊中国
+          description: 亚马逊中国
+          url: https://www.amazon.cn/
+        - name: 唯品会
+          description: 唯品会
+          url: https://www.vip.com/
+        - name: 快递100
+          description: 查快递
+          url: https://www.kuaidi100.com/?from=openv
+        - name: 唯品会
+          description: 唯品会
+          url: https://www.vip.com/
+        - name: 添加ing
+          description: 添加ing
+          url: http:///
+    - name: 在线影视
       sites:
-        - name: Awwwards
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-          url: https://www.awwwards.com/
-        - name: CSS Design Awards
-          description: Website Awards & Inspiration - CSS Gallery
+        - name: 哔哩哔哩
+          description: 哔哩哔哩
+          url: https://www.acfun.cn/
+        - name: AcFun
+          description: 弹幕视频网
           url: https://www.cssdesignawards.com/
-        - name: The FWA
-          description: FWA - showcasing innovation every day since 2000
-          url: https://thefwa.com/
-        - name: Ecommercefolio
-          description: Only the Best Ecommerce Design Inspiration
-          url: http://www.ecommercefolio.com/
-        - name: Lapa
-          description: The best landing page design inspiration from around the web.
-          url: http://www.lapa.ninja/
-        - name: Reeoo
-          description: web design inspiration and website gallery
-          url: http://reeoo.com/
-        - name: Designmunk
-          description: Best Homepage Design Inspiration
-          url: https://designmunk.com/
-        - name: Best Websites Gallery
-          description: Website Showcase Inspiration | Best Websites Gallery
-          url: https://bestwebsite.gallery/
-        - name: Pages
-          description: Curated directory of the best Pages
-          url: http://www.pages.xyz/
-        - name: SiteSee
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-          url: https://sitesee.co/
-        - name: Site Inspire
-          description: A CSS gallery and showcase of the best web design inspiration.
-          url: https://www.siteinspire.com/
-        - name: WebInspiration
-          description: 网页设计欣赏,全球顶级网页设计
-          url: http://web.uedna.com/
-        - name: navnav
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-          url: http://navnav.co/
-        - name: Really Good UX
-          description: A library of screenshots and examples of really good UX. Brought to you by
-          url: https://www.reallygoodux.io/
-    - name: 图标素材
+        - name: 爱奇艺
+          description: 爱奇艺
+          url: https://www.iqiyi.com/
+        - name: 腾讯视频
+          description: 腾讯视频
+          url: https://v.qq.com/
+        - name: 船长解析
+          description: vip视频在线解析
+          url: http://czjx8.com/
+        - name: 6v电影网
+          description: 6v电影网
+          url: https://www.6vgood.com/
+        - name: YY4060高清影视
+          description: YY4060高清影视
+          url: https://www.yy4060.com/
+        - name: 添加ing
+          description: 添加ing
+          url: http:///
+    - name: 在线直播
       sites:
-        - name: Iconfinder
-          description: 2,100,000+ free and premium vector icons.
-          url: https://www.iconfinder.com
-        - name: iconfont
-          description: 阿里巴巴矢量图标库
-          url: http://www.iconfont.cn/
-        - name: iconmonstr
-          description: Free simple icons for your next project
-          url: https://iconmonstr.com/
-        - name: Icon Archive
-          description: Search 590,912 free icons
-          url: http://www.iconarchive.com/
-        - name: FindIcons
-          description: Search through 300,000 free icons
-          url: https://findicons.com/
-        - name: IcoMoonApp
-          description: Icon Font, SVG, PDF & PNG Generator
-          url: https://icomoon.io/app/
-        - name: easyicon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-          url: http://www.easyicon.net/
-        - name: flaticon
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-          url: https://www.flaticon.com/
-        - name: UICloud
-          description: The largest user interface design database in the world.
-          url: http://ui-cloud.com/
-        - name: Material icons
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-          url: https://material.io/icons/
-        - name: Font Awesome Icon
-          description: The complete set of 675 icons in Font Awesome
-          url: fontawesomeicon
-        - name: ion icons
-          description: The premium icon font for Ionic Framework.
-          url: http://ionicons.com/
-        - name: Simpleline Icons
-          description: Simple line Icons pack
-          url: http://simplelineicons.com/
-    - name: LOGO设计
+        - name: 斗鱼直播
+          description: 斗鱼直播
+          url: https://www.douyu.com/
+        - name: 虎牙直播
+          description: 虎牙直播
+          url: https://www.huya.com/
+        - name: bilibili直播
+          description: bilibili直播
+          url: https://live.bilibili.com/
+        - name: 企鹅电竞
+          description: 企鹅电竞
+          url: https://egame.qq.com/
+        - name: 添加ing
+          description: 添加ing
+          url: http:///
+    - name: 软件工具
       sites:
-        - name: Iconsfeed
-          description: iOS icons gallery
-          url: http://www.iconsfeed.com/
+        - name: MSDN，我告诉你
+          description: MSDN，我告诉你
+          url: https://msdn.itellyou.cn/
         - name: iOS Icon Gallery
           description: Showcasing beautiful icon designs from the iOS App Store
           url: http://iosicongallery.com/
